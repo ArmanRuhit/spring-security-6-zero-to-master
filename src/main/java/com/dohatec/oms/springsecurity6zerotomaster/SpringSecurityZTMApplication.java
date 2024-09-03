@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringSecurity6ZeroToMasterApplication {
+public class SpringSecurityZTMApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringSecurity6ZeroToMasterApplication.class, args);
+        SpringApplication.run(SpringSecurityZTMApplication.class, args);
     }
 
 }
